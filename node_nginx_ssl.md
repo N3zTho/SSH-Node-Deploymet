@@ -83,7 +83,7 @@ Add the following to the location part of the server block
 sudo nginx -t
 
 # Restart NGINX
-sudo service restart nginx
+sudo service nginx restart
 ```
 
 ### You should now be able to visit your IP with no port (port 80) and see your app. Now let's add a domain
