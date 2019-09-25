@@ -1,6 +1,6 @@
 # Node.js Deployment
 
-> Steps to deploy a Node.js app to Digital Ocean using PM2, NGINX as a reverse proxy and an SSL from LetsEncrypt
+> Steps to deploy a Node.js app to DigitalOcean using PM2, NGINX as a reverse proxy and an SSL from LetsEncrypt
 
 ## 1. Sign up for Digital Ocean
 If you use the referal link below, you get $10 free (1 or 2 months)
