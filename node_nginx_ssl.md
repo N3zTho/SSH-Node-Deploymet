@@ -54,9 +54,9 @@ pm2 startup ubuntu
 ```
 sudo ufw enable
 sudo ufw status
-sudo ufw enable ssh (Port 22)
-sudo ufw enable http (Port 80)
-sudo ufw enable https (Port 443)
+sudo ufw allow ssh (Port 22)
+sudo ufw allow http (Port 80)
+sudo ufw allow https (Port 443)
 ```
 
 ## 8. Install NGINX and configure
